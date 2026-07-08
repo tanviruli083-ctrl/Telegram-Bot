@@ -4,7 +4,7 @@ from fbchat import Client
 from fbchat.models import *
 
 # টেলিগ্রাম বট টোকেন (আপনার নিজের টোকেন দিন)
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TOKEN = "8571540558:AAElXGGNGLjIb1c0_1kBm4jlS2CGOg5F3nU"
 bot = telebot.TeleBot(TOKEN)
 
 # ফেসবুক থেকে কুকি বের করার ফাংশন
