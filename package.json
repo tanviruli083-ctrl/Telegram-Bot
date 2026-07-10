@@ -1,7 +1,7 @@
 {
-  "name": "ts-otp-hub-runner",
+  "name": "ts-bot-runner",
   "version": "1.0.0",
-  "description": "Telegram Bot Runner and OTP Hub via STEX API",
+  "description": "TS Master Bot Runner & OTP Hub (STEX API)",
   "main": "index.js",
   "dependencies": {
     "telegraf": "^4.16.3",
