@@ -1,11 +1,17 @@
 {
-  "name": "ts-bot-runner",
+  "name": "ts-otp-hub",
   "version": "1.0.0",
-  "description": "TS Master Bot Runner & OTP Hub (STEX API)",
+  "description": "Dual-architecture Telegram Bot System for OTP Management",
   "main": "index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
   "dependencies": {
-    "telegraf": "^4.16.3",
-    "@supabase/supabase-js": "^2.43.4",
-    "axios": "^1.7.2"
+    "telegraf": "^4.9.0",
+    "axios": "^1.4.0",
+    "@supabase/supabase-js": "^1.35.6"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
